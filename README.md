@@ -1,5 +1,5 @@
 # Hello.
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/mario-lucca/)](www.linkedin.com/in/joão-otávio-ferraz-silva/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/mario-lucca/)](https://www.linkedin.com/in/joão-otávio-ferraz-silva-3030b6195/?originalSubdomain=br)
 
 ```bash
 
