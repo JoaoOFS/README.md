@@ -36,6 +36,7 @@ Um desenvolvedor focado em resolver desafios complexos e criar soluções que re
 - JavaScript  
 - TypeScript  
 - Python  
+- **Estudando:** Java  
 
 ### 💻 **Frameworks**  
 - **Back-End:** Laravel, Express  
@@ -54,6 +55,14 @@ Um desenvolvedor focado em resolver desafios complexos e criar soluções que re
 - Desenvolvimento seguro e escalável  
 - Otimização de APIs e sistemas para alta performance  
 - Integrações avançadas com serviços e APIs de terceiros  
+
+---
+
+## 🌱 **Em Constante Evolução**  
+Atualmente, estou:  
+- **Estudando Java** para expandir minhas habilidades e explorar novos horizontes no desenvolvimento de software.  
+- **Aprimorando e me atualizando em PHP** com foco no framework Laravel, garantindo soluções modernas e de alta performance.  
+- **Avançando no MySQL**, otimizando consultas e aprendendo práticas avançadas para melhorar a eficiência e escalabilidade de bancos de dados.  
 
 ---
 
@@ -77,7 +86,7 @@ Um desenvolvedor focado em resolver desafios complexos e criar soluções que re
 ---
 
 ## 🌐 **Conecte-se Comigo**  
-- **LinkedIn:** [João Otávio](#)  
+- **LinkedIn:** [João Otávio](https://www.linkedin.com/in/joão-otávio-ferraz-silva-3030b6195/)  
 - **GitHub:** Você já está aqui! Explore meus projetos.  
 - **E-mail:** *joao.lsd@hotmail.com*  
 
